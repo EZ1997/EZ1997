@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=C77DFF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+%40EZ+%F0%9F%91%8B;受命于天%2C+既受永昌;AI+%7C+Content+%7C+Builder;Creating+with+purpose" alt="Typing SVG" />
 
-### 🔮 受命于天，既受永昌
+### 🔮 受命于天，既寿永昌
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 👋 Hi, I’m @EZ
 
-- 👀 **受命于天，既受永昌**
+- 👀 **受命于天，既寿永昌**
 - 🌱 正在探索 AI 生成、内容创作与新技术
 - 💞️ 热爱把想法变成作品（短视频 / AI 内容 / 小项目）
 - 📫 欢迎交流与合作
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-**受命于天，既受永昌**
+**受命于天，既寿永昌**
 
 </div>
 
